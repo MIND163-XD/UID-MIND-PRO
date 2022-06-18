@@ -51,6 +51,6 @@ $ python Mind-Pro.py
 ```
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/MIND163-XD/UID-MIND-PRO ; cd UID-MIND-PRO ; python Mind-Pro.py
 ```
-ANY PROBLEM THEN SHARE THIS TOOLS OWNER ðŸ‘‡
+ANY PROBLEM THEN SHARE THIS TOOLS OWNER 👇👇
  
  [![Facebook](https://img.shields.io/badge/Facebook-MR.MIND-blue?style=flat-square&logo=facebook)](https://www.facebook.com/MR.MIND163)</br>
